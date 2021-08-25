@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 25 Aug 2021 14:09:29 GMT
+// Generated on Wed, 25 Aug 2021 14:13:54 GMT
 
 
 import UIKit
@@ -92,4 +92,20 @@ public enum StyleDictionaryColor {
     public static let colorStatusSuccessBg = UIColor(red: 0.855, green: 0.914, blue: 0.863, alpha: 1)
     public static let colorStatusWarning = UIColor(red: 0.761, green: 0.329, blue: 0.000, alpha: 1)
     public static let colorStatusWarningBg = UIColor(red: 0.929, green: 0.886, blue: 0.855, alpha: 1)
+    public static let effectFluffyElevation1Color = rgba(0, 0, 0, 0.15)
+    public static let effectFluffyElevation2Color = rgba(0, 0, 0, 0.13)
+    public static let effectFluffyElevation3Color = rgba(0, 0, 0, 0.11)
+    public static let effectFluffyElevation4Color = rgba(0, 0, 0, 0.12)
+    public static let effectFluffyElevation5Color = rgba(0, 0, 0, 0.12)
+    public static let effectFluffyElevation6Color = rgba(0, 0, 0, 0.12)
+    public static let effectFluffyElevation7Color = rgba(0, 0, 0, 0.14)
+    public static let effectTightElevation1Color = rgba(0, 0, 0, 0.3)
+    public static let effectTightElevation2Color = rgba(0, 0, 0, 0.25)
+    public static let effectTightElevation3Color = rgba(0, 0, 0, 0.22)
+    public static let effectTightElevation4Color = rgba(0, 0, 0, 0.24)
+    public static let effectTightElevation5Color = rgba(0, 0, 0, 0.2)
+    public static let effectTightElevation6Color = rgba(0, 0, 0, 0.2)
+    public static let effectTightElevation7Color = rgba(0, 0, 0, 0.17)
+    public static let effectTightElevation8Color = rgba(0, 0, 0, 0.2)
+    public static let effectTightElevation9Color = rgba(0, 0, 0, 0.22)
 }

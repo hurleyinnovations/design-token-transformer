@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 25 Aug 2021 14:09:29 GMT
+// Generated on Wed, 25 Aug 2021 14:13:54 GMT
 
 
 #import <UIKit/UIKit.h>
@@ -91,7 +91,23 @@ ColorColorBackgroundBrand,
 ColorColorBackgroundNationalBlue,
 ColorColorBackgroundGrey,
 ColorColorBackgroundSoftWhite,
-ColorColorBackgroundDefault
+ColorColorBackgroundDefault,
+EffectEffectTightElevation1Color,
+EffectEffectTightElevation2Color,
+EffectEffectTightElevation3Color,
+EffectEffectTightElevation4Color,
+EffectEffectTightElevation5Color,
+EffectEffectTightElevation6Color,
+EffectEffectTightElevation7Color,
+EffectEffectTightElevation8Color,
+EffectEffectTightElevation9Color,
+EffectEffectFluffyElevation1Color,
+EffectEffectFluffyElevation2Color,
+EffectEffectFluffyElevation3Color,
+EffectEffectFluffyElevation4Color,
+EffectEffectFluffyElevation5Color,
+EffectEffectFluffyElevation6Color,
+EffectEffectFluffyElevation7Color
 };
 
 @interface StyleDictionaryColor : NSObject
