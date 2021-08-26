@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 25 Aug 2021 14:13:54 GMT
+// Generated on Thu, 26 Aug 2021 16:52:05 GMT
 
 
 #import "StyleDictionaryColor.h"

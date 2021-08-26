@@ -29,7 +29,7 @@
       }]
     },
     "json-flat": {
-      "transformGroup": "js",
+      "transformGroup": "custom/css",
       "buildPath": "build/json/",
       "files": [
         {
