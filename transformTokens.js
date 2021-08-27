@@ -48,6 +48,15 @@ StyleDictionary.registerTransformGroup({
   ]),
 })
 
+StyleDictionary.registerTransformGroup({
+  name: 'custom/js',
+  transforms: StyleDictionary.transformGroup['css'].concat([
+    'size/px',
+    'size/percent',
+    'name/ti/camel',
+  ]),
+})
+
 const StyleDictionaryExtended = StyleDictionary.extend(baseConfig)
 
 StyleDictionaryExtended.buildAllPlatforms()
