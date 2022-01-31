@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 25 Jan 2022 16:57:16 GMT
+// Generated on Mon, 31 Jan 2022 12:55:25 GMT
 
 
 #import <UIKit/UIKit.h>
@@ -61,31 +61,47 @@ ColorColorActionPrimaryDefault,
 ColorColorActionPrimaryHover,
 ColorColorActionPrimaryActive,
 ColorColorActionPrimaryDisabled,
-ColorColorActionPrimaryHover10,
-ColorColorActionPrimaryActive20,
 ColorColorActionPrimaryInverted,
-ColorColorActionPrimaryVisited,
-ColorColorActionTertiaryDefault,
-ColorColorActionTertiaryHover,
-ColorColorActionTertiaryActive,
-ColorColorActionTertiaryDisabled,
-ColorColorActionTertiaryHover10,
-ColorColorActionTertiaryActive20,
-ColorColorActionTertiaryInverted,
-ColorColorActionTertiaryVisited,
+ColorColorActionExpression6Default,
+ColorColorActionExpression6Hover,
+ColorColorActionExpression6Active,
+ColorColorActionExpression6Disabled,
+ColorColorActionExpression6Inverted,
 ColorColorActionSecondaryDefault,
 ColorColorActionSecondaryHover,
 ColorColorActionSecondaryActive,
 ColorColorActionSecondaryDisabled,
-ColorColorActionSecondaryHover10,
-ColorColorActionSecondaryActive20,
 ColorColorActionSecondaryInverted,
-ColorColorActionSecondaryVisited,
 ColorColorBackgroundBrand,
 ColorColorBackgroundNationalBlue,
 ColorColorBackgroundLightGrey,
 ColorColorBackgroundSoftWhite,
-ColorColorBackgroundBrightWhite
+ColorColorBackgroundBrightWhite,
+ColorColorActionExpression1Default,
+ColorColorActionExpression1Hover,
+ColorColorActionExpression1Active,
+ColorColorActionExpression1Disable,
+ColorColorActionExpression1Inverted,
+ColorColorActionExpression2Default,
+ColorColorActionExpression2Hover,
+ColorColorActionExpression2Active,
+ColorColorActionExpression2Disabled,
+ColorColorActionExpression2Inverted,
+ColorColorActionExpression3Default,
+ColorColorActionExpression3Hover,
+ColorColorActionExpression3Active,
+ColorColorActionExpression3Disabled,
+ColorColorActionExpression3Inverted,
+ColorColorActionExpression4Default,
+ColorColorActionExpression4Hover,
+ColorColorActionExpression4Active,
+ColorColorActionExpression4Disabled,
+ColorColorActionExpression4Inverted,
+ColorColorActionExpression5Default,
+ColorColorActionExpression5Hover,
+ColorColorActionExpression5Active,
+ColorColorActionExpression5Disabled,
+ColorColorActionExpression5Inverted
 };
 
 @interface StyleDictionaryColor : NSObject
