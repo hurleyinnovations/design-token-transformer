@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Mon, 31 Jan 2022 12:55:25 GMT
+// Generated on Fri, 04 Feb 2022 10:56:36 GMT
 
 
 import UIKit
@@ -63,15 +63,15 @@ public enum StyleDictionaryColor {
     public static let colorExpressionExpression6 = UIColor(red: 0.980, green: 0.510, blue: 0.196, alpha: 1)
     public static let colorNeutralBlack = UIColor(red: 0.118, green: 0.098, blue: 0.294, alpha: 1)
     public static let colorNeutralBrightWhite = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
-    public static let colorNeutralNeutral1 = UIColor(red: 0.145, green: 0.145, blue: 0.114, alpha: 1)
-    public static let colorNeutralNeutral2 = UIColor(red: 0.247, green: 0.247, blue: 0.216, alpha: 1)
-    public static let colorNeutralNeutral3 = UIColor(red: 0.345, green: 0.345, blue: 0.314, alpha: 1)
-    public static let colorNeutralNeutral4 = UIColor(red: 0.447, green: 0.447, blue: 0.412, alpha: 1)
-    public static let colorNeutralNeutral5 = UIColor(red: 0.545, green: 0.545, blue: 0.518, alpha: 1)
-    public static let colorNeutralNeutral6 = UIColor(red: 0.643, green: 0.643, blue: 0.616, alpha: 1)
-    public static let colorNeutralNeutral7 = UIColor(red: 0.745, green: 0.745, blue: 0.718, alpha: 1)
-    public static let colorNeutralNeutral8 = UIColor(red: 0.843, green: 0.843, blue: 0.816, alpha: 1)
-    public static let colorNeutralNeutral9 = UIColor(red: 0.945, green: 0.945, blue: 0.918, alpha: 1)
+    public static let colorNeutralNeutral1 = UIColor(red: 0.204, green: 0.188, blue: 0.365, alpha: 1)
+    public static let colorNeutralNeutral2 = UIColor(red: 0.294, green: 0.278, blue: 0.435, alpha: 1)
+    public static let colorNeutralNeutral3 = UIColor(red: 0.384, green: 0.369, blue: 0.506, alpha: 1)
+    public static let colorNeutralNeutral4 = UIColor(red: 0.475, green: 0.463, blue: 0.576, alpha: 1)
+    public static let colorNeutralNeutral5 = UIColor(red: 0.561, green: 0.549, blue: 0.647, alpha: 1)
+    public static let colorNeutralNeutral6 = UIColor(red: 0.647, green: 0.639, blue: 0.718, alpha: 1)
+    public static let colorNeutralNeutral7 = UIColor(red: 0.737, green: 0.729, blue: 0.788, alpha: 1)
+    public static let colorNeutralNeutral8 = UIColor(red: 0.824, green: 0.820, blue: 0.859, alpha: 1)
+    public static let colorNeutralNeutral9 = UIColor(red: 0.914, green: 0.910, blue: 0.929, alpha: 1)
     public static let colorPrimaryPrimary10 = UIColor(red: 0.914, green: 0.910, blue: 0.929, alpha: 1)
     public static let colorPrimaryPrimary100 = UIColor(red: 0.118, green: 0.098, blue: 0.294, alpha: 1)
     public static let colorPrimaryPrimary20 = UIColor(red: 0.824, green: 0.820, blue: 0.859, alpha: 1)
