@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Fri, 04 Feb 2022 10:56:36 GMT
+// Generated on Wed, 23 Feb 2022 17:48:41 GMT
 
 
 #import <UIKit/UIKit.h>
@@ -41,6 +41,11 @@ ColorColorNeutralNeutral7,
 ColorColorNeutralNeutral8,
 ColorColorNeutralNeutral9,
 ColorColorNeutralBrightWhite,
+ColorColorBackgroundBrand,
+ColorColorBackgroundNationalBlue,
+ColorColorBackgroundLightGrey,
+ColorColorBackgroundSoftWhite,
+ColorColorBackgroundBrightWhite,
 ColorColorExpressionExpression1,
 ColorColorExpressionExpression2,
 ColorColorExpressionExpression3,
@@ -62,21 +67,11 @@ ColorColorActionPrimaryHover,
 ColorColorActionPrimaryActive,
 ColorColorActionPrimaryDisabled,
 ColorColorActionPrimaryInverted,
-ColorColorActionExpression6Default,
-ColorColorActionExpression6Hover,
-ColorColorActionExpression6Active,
-ColorColorActionExpression6Disabled,
-ColorColorActionExpression6Inverted,
 ColorColorActionSecondaryDefault,
 ColorColorActionSecondaryHover,
 ColorColorActionSecondaryActive,
 ColorColorActionSecondaryDisabled,
 ColorColorActionSecondaryInverted,
-ColorColorBackgroundBrand,
-ColorColorBackgroundNationalBlue,
-ColorColorBackgroundLightGrey,
-ColorColorBackgroundSoftWhite,
-ColorColorBackgroundBrightWhite,
 ColorColorActionExpression1Default,
 ColorColorActionExpression1Hover,
 ColorColorActionExpression1Active,
@@ -101,7 +96,12 @@ ColorColorActionExpression5Default,
 ColorColorActionExpression5Hover,
 ColorColorActionExpression5Active,
 ColorColorActionExpression5Disabled,
-ColorColorActionExpression5Inverted
+ColorColorActionExpression5Inverted,
+ColorColorActionExpression6Default,
+ColorColorActionExpression6Hover,
+ColorColorActionExpression6Active,
+ColorColorActionExpression6Disabled,
+ColorColorActionExpression6Inverted
 };
 
 @interface StyleDictionaryColor : NSObject

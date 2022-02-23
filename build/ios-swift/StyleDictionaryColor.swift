@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Fri, 04 Feb 2022 10:56:36 GMT
+// Generated on Wed, 23 Feb 2022 17:48:41 GMT
 
 
 import UIKit
@@ -92,14 +92,14 @@ public enum StyleDictionaryColor {
     public static let colorSecondarySecondary70 = UIColor(red: 0.573, green: 0.878, blue: 0.988, alpha: 1)
     public static let colorSecondarySecondary80 = UIColor(red: 0.514, green: 0.859, blue: 0.984, alpha: 1)
     public static let colorSecondarySecondary90 = UIColor(red: 0.455, green: 0.843, blue: 0.984, alpha: 1)
-    public static let colorStatusError = UIColor(red: 0.980, green: 0.318, blue: 0.200, alpha: 1)
+    public static let colorStatusError = UIColor(red: 0.867, green: 0.204, blue: 0.110, alpha: 1)
     public static let colorStatusErrorBg = UIColor(red: 0.996, green: 0.831, blue: 0.804, alpha: 1)
-    public static let colorStatusImportant = UIColor(red: 0.980, green: 0.827, blue: 0.161, alpha: 1)
+    public static let colorStatusImportant = UIColor(red: 0.561, green: 0.455, blue: 0.000, alpha: 1)
     public static let colorStatusImportantBg = UIColor(red: 0.996, green: 0.957, blue: 0.784, alpha: 1)
-    public static let colorStatusInfo = UIColor(red: 0.400, green: 0.827, blue: 0.980, alpha: 1)
+    public static let colorStatusInfo = UIColor(red: 0.000, green: 0.478, blue: 0.612, alpha: 1)
     public static let colorStatusInfoBg = UIColor(red: 0.843, green: 0.957, blue: 0.996, alpha: 1)
-    public static let colorStatusSuccess = UIColor(red: 0.275, green: 0.745, blue: 0.314, alpha: 1)
+    public static let colorStatusSuccess = UIColor(red: 0.000, green: 0.533, blue: 0.110, alpha: 1)
     public static let colorStatusSuccessBg = UIColor(red: 0.824, green: 0.937, blue: 0.831, alpha: 1)
-    public static let colorStatusWarning = UIColor(red: 0.980, green: 0.514, blue: 0.200, alpha: 1)
+    public static let colorStatusWarning = UIColor(red: 0.757, green: 0.329, blue: 0.000, alpha: 1)
     public static let colorStatusWarningBg = UIColor(red: 0.996, green: 0.882, blue: 0.804, alpha: 1)
 }
