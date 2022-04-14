@@ -1,4 +1,5 @@
 const StyleDictionary = require('style-dictionary')
+const coreLib = require('style-dictionary/lib/common/transforms')
 const baseConfig = require('./config.json')
 
 
@@ -21,6 +22,18 @@ StyleDictionary.registerTransform({
   },
   transformer: token => {
     return `${token.value}%`
+  },
+})
+
+StyleDictionary.registerTransform({
+  name: 'effect/color',
+  type: 'value',
+  matcher: token => {
+    return token.type === 'custom-shadow'
+  },
+  transformer: token => {
+    const transformToken = { value: token.value.color, type: 'color'}
+    return { ...token.value, color: coreLib['color/css'].transformer(transformToken) }
   },
 })
 
@@ -54,6 +67,7 @@ StyleDictionary.registerTransformGroup({
     'size/px',
     'size/percent',
     'name/ti/camel',
+    'effect/color',
   ]),
 })
 
