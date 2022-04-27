@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 23 Feb 2022 17:48:41 GMT
+// Generated on Wed, 27 Apr 2022 13:59:52 GMT
 
 
 #import <UIKit/UIKit.h>
@@ -101,7 +101,12 @@ ColorColorActionExpression6Default,
 ColorColorActionExpression6Hover,
 ColorColorActionExpression6Active,
 ColorColorActionExpression6Disabled,
-ColorColorActionExpression6Inverted
+ColorColorActionExpression6Inverted,
+ColorColorActionNeutralDefault,
+ColorColorActionNeutralHover,
+ColorColorActionNeutralActive,
+ColorColorActionNeutralDisabled,
+ColorColorActionNeutralInverted
 };
 
 @interface StyleDictionaryColor : NSObject

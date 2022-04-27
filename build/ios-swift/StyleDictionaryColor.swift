@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 23 Feb 2022 17:48:41 GMT
+// Generated on Wed, 27 Apr 2022 13:59:52 GMT
 
 
 import UIKit
@@ -40,9 +40,14 @@ public enum StyleDictionaryColor {
     public static let colorActionExpression6Disabled = UIColor(red: 0.996, green: 0.906, blue: 0.843, alpha: 1)
     public static let colorActionExpression6Hover = UIColor(red: 0.984, green: 0.561, blue: 0.275, alpha: 1)
     public static let colorActionExpression6Inverted = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
+    public static let colorActionNeutralActive = UIColor(red: 0.384, green: 0.369, blue: 0.506, alpha: 1)
+    public static let colorActionNeutralDefault = UIColor(red: 0.824, green: 0.820, blue: 0.859, alpha: 1)
+    public static let colorActionNeutralDisabled = UIColor(red: 0.914, green: 0.910, blue: 0.929, alpha: 1)
+    public static let colorActionNeutralHover = UIColor(red: 0.647, green: 0.639, blue: 0.718, alpha: 1)
+    public static let colorActionNeutralInverted = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
     public static let colorActionPrimaryActive = UIColor(red: 0.020, green: 0.000, blue: 0.200, alpha: 1)
     public static let colorActionPrimaryDefault = UIColor(red: 0.118, green: 0.098, blue: 0.294, alpha: 1)
-    public static let colorActionPrimaryDisabled = UIColor(red: 0.824, green: 0.820, blue: 0.859, alpha: 1)
+    public static let colorActionPrimaryDisabled = UIColor(red: 0.914, green: 0.910, blue: 0.929, alpha: 1)
     public static let colorActionPrimaryHover = UIColor(red: 0.204, green: 0.192, blue: 0.369, alpha: 1)
     public static let colorActionPrimaryInverted = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
     public static let colorActionSecondaryActive = UIColor(red: 0.298, green: 0.725, blue: 0.882, alpha: 1)
@@ -92,7 +97,7 @@ public enum StyleDictionaryColor {
     public static let colorSecondarySecondary70 = UIColor(red: 0.573, green: 0.878, blue: 0.988, alpha: 1)
     public static let colorSecondarySecondary80 = UIColor(red: 0.514, green: 0.859, blue: 0.984, alpha: 1)
     public static let colorSecondarySecondary90 = UIColor(red: 0.455, green: 0.843, blue: 0.984, alpha: 1)
-    public static let colorStatusError = UIColor(red: 0.867, green: 0.204, blue: 0.110, alpha: 1)
+    public static let colorStatusError = UIColor(red: 0.835, green: 0.188, blue: 0.102, alpha: 1)
     public static let colorStatusErrorBg = UIColor(red: 0.996, green: 0.831, blue: 0.804, alpha: 1)
     public static let colorStatusImportant = UIColor(red: 0.561, green: 0.455, blue: 0.000, alpha: 1)
     public static let colorStatusImportantBg = UIColor(red: 0.996, green: 0.957, blue: 0.784, alpha: 1)
@@ -100,6 +105,6 @@ public enum StyleDictionaryColor {
     public static let colorStatusInfoBg = UIColor(red: 0.843, green: 0.957, blue: 0.996, alpha: 1)
     public static let colorStatusSuccess = UIColor(red: 0.000, green: 0.533, blue: 0.110, alpha: 1)
     public static let colorStatusSuccessBg = UIColor(red: 0.824, green: 0.937, blue: 0.831, alpha: 1)
-    public static let colorStatusWarning = UIColor(red: 0.757, green: 0.329, blue: 0.000, alpha: 1)
+    public static let colorStatusWarning = UIColor(red: 0.722, green: 0.314, blue: 0.000, alpha: 1)
     public static let colorStatusWarningBg = UIColor(red: 0.996, green: 0.882, blue: 0.804, alpha: 1)
 }
