@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 04 May 2022 16:18:26 GMT
+// Generated on Thu, 08 Dec 2022 12:27:47 GMT
 
 
 import UIKit
@@ -51,7 +51,7 @@ public enum StyleDictionaryColor {
     public static let colorActionPrimaryHover = UIColor(red: 0.204, green: 0.192, blue: 0.369, alpha: 1)
     public static let colorActionPrimaryInverted = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
     public static let colorActionSecondaryActive = UIColor(red: 0.298, green: 0.725, blue: 0.882, alpha: 1)
-    public static let colorActionSecondaryDefault = UIColor(red: 0.400, green: 0.827, blue: 0.980, alpha: 1)
+    public static let colorActionSecondaryDefault = UIColor(red: 0.392, green: 0.824, blue: 0.980, alpha: 1)
     public static let colorActionSecondaryDisabled = UIColor(red: 0.882, green: 0.965, blue: 0.996, alpha: 1)
     public static let colorActionSecondaryHover = UIColor(red: 0.455, green: 0.843, blue: 0.984, alpha: 1)
     public static let colorActionSecondaryInverted = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
@@ -88,7 +88,7 @@ public enum StyleDictionaryColor {
     public static let colorPrimaryPrimary80 = UIColor(red: 0.294, green: 0.278, blue: 0.435, alpha: 1)
     public static let colorPrimaryPrimary90 = UIColor(red: 0.204, green: 0.188, blue: 0.365, alpha: 1)
     public static let colorSecondarySecondary10 = UIColor(red: 0.941, green: 0.984, blue: 1.000, alpha: 1)
-    public static let colorSecondarySecondary100 = UIColor(red: 0.400, green: 0.827, blue: 0.980, alpha: 1)
+    public static let colorSecondarySecondary100 = UIColor(red: 0.392, green: 0.824, blue: 0.980, alpha: 1)
     public static let colorSecondarySecondary20 = UIColor(red: 0.882, green: 0.965, blue: 0.996, alpha: 1)
     public static let colorSecondarySecondary30 = UIColor(red: 0.824, green: 0.949, blue: 0.996, alpha: 1)
     public static let colorSecondarySecondary40 = UIColor(red: 0.749, green: 0.925, blue: 0.992, alpha: 1)

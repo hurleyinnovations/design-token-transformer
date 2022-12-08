@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 04 May 2022 16:18:26 GMT
+// Generated on Thu, 08 Dec 2022 12:27:47 GMT
 
 
 import UIKit
@@ -51,7 +51,7 @@ public class StyleDictionary {
     public static let colorColorActionPrimaryHover = UIColor(red: 0.204, green: 0.192, blue: 0.369, alpha: 1)
     public static let colorColorActionPrimaryInverted = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
     public static let colorColorActionSecondaryActive = UIColor(red: 0.298, green: 0.725, blue: 0.882, alpha: 1)
-    public static let colorColorActionSecondaryDefault = UIColor(red: 0.400, green: 0.827, blue: 0.980, alpha: 1)
+    public static let colorColorActionSecondaryDefault = UIColor(red: 0.392, green: 0.824, blue: 0.980, alpha: 1)
     public static let colorColorActionSecondaryDisabled = UIColor(red: 0.882, green: 0.965, blue: 0.996, alpha: 1)
     public static let colorColorActionSecondaryHover = UIColor(red: 0.455, green: 0.843, blue: 0.984, alpha: 1)
     public static let colorColorActionSecondaryInverted = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
@@ -88,7 +88,7 @@ public class StyleDictionary {
     public static let colorColorPrimaryPrimary80 = UIColor(red: 0.294, green: 0.278, blue: 0.435, alpha: 1)
     public static let colorColorPrimaryPrimary90 = UIColor(red: 0.204, green: 0.188, blue: 0.365, alpha: 1)
     public static let colorColorSecondarySecondary10 = UIColor(red: 0.941, green: 0.984, blue: 1.000, alpha: 1)
-    public static let colorColorSecondarySecondary100 = UIColor(red: 0.400, green: 0.827, blue: 0.980, alpha: 1)
+    public static let colorColorSecondarySecondary100 = UIColor(red: 0.392, green: 0.824, blue: 0.980, alpha: 1)
     public static let colorColorSecondarySecondary20 = UIColor(red: 0.882, green: 0.965, blue: 0.996, alpha: 1)
     public static let colorColorSecondarySecondary30 = UIColor(red: 0.824, green: 0.949, blue: 0.996, alpha: 1)
     public static let colorColorSecondarySecondary40 = UIColor(red: 0.749, green: 0.925, blue: 0.992, alpha: 1)
