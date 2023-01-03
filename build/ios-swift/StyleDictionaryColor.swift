@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 08 Dec 2022 12:35:38 GMT
+// Generated on Tue, 03 Jan 2023 15:29:35 GMT
 
 
 import UIKit
@@ -97,7 +97,7 @@ public enum StyleDictionaryColor {
     public static let colorSecondarySecondary70 = UIColor(red: 0.573, green: 0.878, blue: 0.988, alpha: 1)
     public static let colorSecondarySecondary80 = UIColor(red: 0.514, green: 0.859, blue: 0.984, alpha: 1)
     public static let colorSecondarySecondary90 = UIColor(red: 0.455, green: 0.843, blue: 0.984, alpha: 1)
-    public static let colorStatusError = UIColor(red: 0.835, green: 0.188, blue: 0.102, alpha: 1)
+    public static let colorStatusError = UIColor(red: 0.784, green: 0.173, blue: 0.078, alpha: 1)
     public static let colorStatusErrorBg = UIColor(red: 0.996, green: 0.831, blue: 0.804, alpha: 1)
     public static let colorStatusImportant = UIColor(red: 0.561, green: 0.455, blue: 0.000, alpha: 1)
     public static let colorStatusImportantBg = UIColor(red: 0.996, green: 0.957, blue: 0.784, alpha: 1)
