@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 03 Jan 2023 15:29:35 GMT
+// Generated on Fri, 13 Jan 2023 10:56:03 GMT
 
 
 import UIKit
@@ -51,7 +51,7 @@ public class StyleDictionary {
     public static let colorColorActionPrimaryHover = UIColor(red: 0.204, green: 0.192, blue: 0.369, alpha: 1)
     public static let colorColorActionPrimaryInverted = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
     public static let colorColorActionSecondaryActive = UIColor(red: 0.298, green: 0.725, blue: 0.882, alpha: 1)
-    public static let colorColorActionSecondaryDefault = UIColor(red: 0.392, green: 0.824, blue: 0.980, alpha: 1)
+    public static let colorColorActionSecondaryDefaulth = UIColor(red: 0.392, green: 0.824, blue: 0.980, alpha: 1)
     public static let colorColorActionSecondaryDisabled = UIColor(red: 0.882, green: 0.965, blue: 0.996, alpha: 1)
     public static let colorColorActionSecondaryHover = UIColor(red: 0.455, green: 0.843, blue: 0.984, alpha: 1)
     public static let colorColorActionSecondaryInverted = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
@@ -97,7 +97,10 @@ public class StyleDictionary {
     public static let colorColorSecondarySecondary70 = UIColor(red: 0.573, green: 0.878, blue: 0.988, alpha: 1)
     public static let colorColorSecondarySecondary80 = UIColor(red: 0.514, green: 0.859, blue: 0.984, alpha: 1)
     public static let colorColorSecondarySecondary90 = UIColor(red: 0.455, green: 0.843, blue: 0.984, alpha: 1)
-    public static let colorColorStatusError = UIColor(red: 0.784, green: 0.173, blue: 0.078, alpha: 1)
+    public static let colorColorStatusCaution = UIColor(red: 0.886, green: 0.588, blue: 0.012, alpha: 1)
+    public static let colorColorStatusCautionbg = UIColor(red: 0.988, green: 0.965, blue: 0.949, alpha: 1)
+    public static let colorColorStatusError0 = UIColor(red: 0.784, green: 0.173, blue: 0.078, alpha: 1)
+    public static let colorColorStatusError1 = UIColor(red: 0.784, green: 0.173, blue: 0.078, alpha: 0.050980392156862744)
     public static let colorColorStatusErrorBg = UIColor(red: 0.996, green: 0.831, blue: 0.804, alpha: 1)
     public static let colorColorStatusImportant = UIColor(red: 0.561, green: 0.455, blue: 0.000, alpha: 1)
     public static let colorColorStatusImportantBg = UIColor(red: 0.996, green: 0.957, blue: 0.784, alpha: 1)
@@ -107,28 +110,4 @@ public class StyleDictionary {
     public static let colorColorStatusSuccessBg = UIColor(red: 0.824, green: 0.937, blue: 0.831, alpha: 1)
     public static let colorColorStatusWarning = UIColor(red: 0.722, green: 0.314, blue: 0.000, alpha: 1)
     public static let colorColorStatusWarningBg = UIColor(red: 0.996, green: 0.882, blue: 0.804, alpha: 1)
-    public static let effectEffectFluffyElevation1 = [object Object]
-    public static let effectEffectFluffyElevation2 = [object Object]
-    public static let effectEffectFluffyElevation3 = [object Object]
-    public static let effectEffectFluffyElevation4 = [object Object]
-    public static let effectEffectFluffyElevation5 = [object Object]
-    public static let effectEffectFluffyElevation6 = [object Object]
-    public static let effectEffectFluffyElevation7 = [object Object]
-    public static let effectEffectTightElevation1 = [object Object]
-    public static let effectEffectTightElevation2 = [object Object]
-    public static let effectEffectTightElevation3 = [object Object]
-    public static let effectEffectTightElevation4 = [object Object]
-    public static let effectEffectTightElevation5 = [object Object]
-    public static let effectEffectTightElevation6 = [object Object]
-    public static let effectEffectTightElevation7 = [object Object]
-    public static let effectEffectTightElevation8 = [object Object]
-    public static let effectEffectTightElevation9 = [object Object]
-    public static let gridGridCondensed0Mobile = [object Object]
-    public static let gridGridCondensed1200Desktop0 = [object Object]
-    public static let gridGridCondensed1200Desktop1 = [object Object]
-    public static let gridGridCondensed576Tablet = [object Object]
-    public static let gridGridSpacious0Mobile = [object Object]
-    public static let gridGridSpacious1200Desktop0 = [object Object]
-    public static let gridGridSpacious1200Desktop1 = [object Object]
-    public static let gridGridSpacious576Tablet = [object Object]
 }

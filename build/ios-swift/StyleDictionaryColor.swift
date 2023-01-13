@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 03 Jan 2023 15:29:35 GMT
+// Generated on Fri, 13 Jan 2023 10:56:03 GMT
 
 
 import UIKit
@@ -51,7 +51,7 @@ public enum StyleDictionaryColor {
     public static let colorActionPrimaryHover = UIColor(red: 0.204, green: 0.192, blue: 0.369, alpha: 1)
     public static let colorActionPrimaryInverted = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
     public static let colorActionSecondaryActive = UIColor(red: 0.298, green: 0.725, blue: 0.882, alpha: 1)
-    public static let colorActionSecondaryDefault = UIColor(red: 0.392, green: 0.824, blue: 0.980, alpha: 1)
+    public static let colorActionSecondaryDefaulth = UIColor(red: 0.392, green: 0.824, blue: 0.980, alpha: 1)
     public static let colorActionSecondaryDisabled = UIColor(red: 0.882, green: 0.965, blue: 0.996, alpha: 1)
     public static let colorActionSecondaryHover = UIColor(red: 0.455, green: 0.843, blue: 0.984, alpha: 1)
     public static let colorActionSecondaryInverted = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
@@ -97,7 +97,10 @@ public enum StyleDictionaryColor {
     public static let colorSecondarySecondary70 = UIColor(red: 0.573, green: 0.878, blue: 0.988, alpha: 1)
     public static let colorSecondarySecondary80 = UIColor(red: 0.514, green: 0.859, blue: 0.984, alpha: 1)
     public static let colorSecondarySecondary90 = UIColor(red: 0.455, green: 0.843, blue: 0.984, alpha: 1)
-    public static let colorStatusError = UIColor(red: 0.784, green: 0.173, blue: 0.078, alpha: 1)
+    public static let colorStatusCaution = UIColor(red: 0.886, green: 0.588, blue: 0.012, alpha: 1)
+    public static let colorStatusCautionbg = UIColor(red: 0.988, green: 0.965, blue: 0.949, alpha: 1)
+    public static let colorStatusError0 = UIColor(red: 0.784, green: 0.173, blue: 0.078, alpha: 1)
+    public static let colorStatusError1 = UIColor(red: 0.784, green: 0.173, blue: 0.078, alpha: 0.050980392156862744)
     public static let colorStatusErrorBg = UIColor(red: 0.996, green: 0.831, blue: 0.804, alpha: 1)
     public static let colorStatusImportant = UIColor(red: 0.561, green: 0.455, blue: 0.000, alpha: 1)
     public static let colorStatusImportantBg = UIColor(red: 0.996, green: 0.957, blue: 0.784, alpha: 1)

@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 03 Jan 2023 15:29:35 GMT
+// Generated on Fri, 13 Jan 2023 10:56:03 GMT
 
 
 #import <UIKit/UIKit.h>
@@ -56,18 +56,21 @@ ColorColorStatusSuccess,
 ColorColorStatusSuccessBg,
 ColorColorStatusWarning,
 ColorColorStatusWarningBg,
-ColorColorStatusError,
+ColorColorStatusError0,
+ColorColorStatusError1,
 ColorColorStatusErrorBg,
 ColorColorStatusInfo,
 ColorColorStatusInfoBg,
 ColorColorStatusImportantBg,
 ColorColorStatusImportant,
+ColorColorStatusCaution,
+ColorColorStatusCautionbg,
 ColorColorActionPrimaryDefault,
 ColorColorActionPrimaryHover,
 ColorColorActionPrimaryActive,
 ColorColorActionPrimaryDisabled,
 ColorColorActionPrimaryInverted,
-ColorColorActionSecondaryDefault,
+ColorColorActionSecondaryDefaulth,
 ColorColorActionSecondaryHover,
 ColorColorActionSecondaryActive,
 ColorColorActionSecondaryDisabled,
